@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<categoryitems>
+  
+  <categoryitem>
+    <name>Restaurant Vigen</name>
+    <adress>Baunehojvej 5</adress>
+    <imageurl>/Assets/Vigen.gif</imageurl>
+    <web>www.vigen.dk</web>
+    <email>mail@vigen.dk</email>
+    <phone>+45 46755008</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Svogerslev Kro</name>
+    <adress>Svogerslev Hovedgade, 45</adress>
+    <imageurl>/Assets/Svogerslev Kro.jpg</imageurl>
+    <web>www.svogerslevkro.dk</web>
+    <email>kontakt@svogerslevkro.dk</email>
+    <phone>+45 46383005</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Viby Kro</name>
+    <adress>Skolevej, 1</adress>
+    <imageurl>/Assets/VibyKro.gif</imageurl>
+    <web>www.vibykro.dk</web>
+    <email>vibykro@post9.tele.dk</email>
+    <phone>+45 46193021</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Restaurant Sagafjord</name>
+    <adress>Vindeboder, 18</adress>
+    <imageurl>/Assets/Sagafjord.jpg</imageurl>
+    <web>www.sagafjord.dk</web>
+    <email>info@sagafjord.dk</email>
+    <phone>+45 46756460</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Restaurant Raadhuskaelderen</name>
+    <adress>Fondens Bro, 3</adress>
+    <imageurl>/Assets/Raadhuskaelderen.jpg</imageurl>
+    <web>www.raadhuskaelderen.dk</web>
+    <email>mail@raadhuskaelderen.dk</email>
+    <phone>+45 46360100</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Restaurant Pizzeria Bella Napoli</name>
+    <adress>Helligkorsvej, 4</adress>
+    <imageurl>/Assets/BellaNapoli.jpg</imageurl>
+    <web>www.bella-napoli.dk</web>
+    <email>info@bella-napoli.dk</email>
+    <phone>+45 46351545</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Ostens Perle</name>
+    <adress>Kogevej, 56</adress>
+    <imageurl>/Assets/OstensPerle.jpg</imageurl>
+    <web>www.ostens-perle.dk</web>
+    <email>info@ostens-perle.dk</email>
+    <phone>+45 46368236</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Restaurant Prindsen</name>
+    <adress>Algade, 13</adress>
+    <imageurl>/Assets/Prindsen.jpg</imageurl>
+    <web>www.prindsen.dk</web>
+    <email>info@prindsen.dk</email>
+    <phone>+45 46309300</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Restaurant Upstairs</name>
+    <adress>Skomagerade, 4, 1.sal</adress>
+    <imageurl>/Assets/Upstairs.jpg</imageurl>
+    <web>www.upstairs-roskilde.dk</web>
+    <email>restaurant@upstairs-roskilde.dk</email>
+    <phone>+45 46351900</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>INSP! Mad</name>
+    <adress>Kogevej, 4-6</adress>
+    <imageurl>/Assets/INSPMad.jpg</imageurl>
+    <web>www.insp.dk</web>
+    <email>mad@insp.dk</email>
+    <phone>+45 51154677</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Bjergtrolden</name>
+    <adress>Ringstedgade, 30</adress>
+    <imageurl>/Assets/Bjergtrolden.jpg</imageurl>
+    <web>www.bjergtrolden.dk</web>
+    <email>mail@bjergtrolden.dk</email>
+    <phone>+45 46350107</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Café Vivaldi</name>
+    <adress>Kobenhavnsvej, 29 
+    Staendertorvet, 8</adress>
+    <imageurl>/Assets/CafeVivaldi.gif</imageurl>
+    <web>www.cafevivaldi.dk</web>
+    <email>roskilde@cafevivaldi.dk</email>
+    <phone>+45 46374005 
+    +45 46374040</phone>
+    <category>Restaurants</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Osted Kro</name>
+    <adress>Hovedvejen, 151B</adress>
+    <imageurl>/Assets/OstedKro.jpg</imageurl>
+    <web>www.ostedkro.dk</web>
+    <email>ostedkro@gmail.com</email>
+    <phone>+45 46497041</phone>
+    <category>Hotels and Hostals</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Wittrup Motel</name>
+    <adress>Roskildevej, 251</adress>
+    <imageurl>/Assets/Wittrup.jpg</imageurl>
+    <web>www.wittrupmotel.dk</web>
+    <email>mail@wittrupmotel.dk</email>
+    <phone>+45 43649132</phone>
+    <category>Hotels and Hostals</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Comwell Roskilde</name>
+    <adress>Vestre Kirkevej, 12</adress>
+    <imageurl>/Assets/Comwell.jpg</imageurl>
+    <web>www.comwellroskilde.dk</web>
+    <email>hotel.roskilde@comwell.com</email>
+    <phone>+45 46323131</phone>
+    <category>Hotels and Hostals</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Scandic Roskilde</name>
+    <adress>Sondre Ringvej, 33</adress>
+    <imageurl>/Assets/Scandic.jpg</imageurl>
+    <web>www.scandichotels.dk</web>
+    <email>roskilde@scandichotels.com</email>
+    <phone>+45 46324632</phone>
+    <category>Hotels and Hostals</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Sofryd</name>
+    <adress>Sofrydvej, 8-10</adress>
+    <imageurl>/Assets/Sofryd.jpg</imageurl>
+    <web>www.hotel-sofryd.dk</web>
+    <email>info@hotel-sofryd.dk</email>
+    <phone>+45 46788011</phone>
+    <category>Hotels and Hostals</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Café Gimle</name>
+    <adress>Helligkorsvej, 2</adress>
+    <imageurl>/Assets/Gimle.gif</imageurl>
+    <web>www.gimle.dk</web>
+    <email>mail@gimle.dk</email>
+    <phone>+45 46371982</phone>
+    <category>Night Life</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Paradis – Ice Cream and Coffee Bar</name>
+    <adress>Algade, 41</adress>
+    <imageurl>/Assets/Paradis.gif</imageurl>
+    <web>www.paradis-is.dk</web>
+    <email>roskilde@paradis-is.dk</email>
+    <phone>+45 46361297</phone>
+    <category>Others</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>The Viking Ship Museum</name>
+    <adress>Vindeboder, 12</adress>
+    <imageurl>/Assets/VikingShip.jpg</imageurl>
+    <web>www.vikingeskibsmuseet.dk</web>
+    <email>museum@vikingeskibmuseet.dk</email>
+    <phone>+45 46300200</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>The Cathedral Museum</name>
+    <adress>Domkirkenpladsen, 3</adress>
+    <imageurl>/Assets/Cathedral.jpg</imageurl>
+    <web>www.roskildedomkirke.dk</web>
+    <email>roskildemuseum@roskilde.dk</email>
+    <phone>+45 46351642</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Museum</name>
+    <adress>Skt. Ols Gade, 18</adress>
+    <imageurl>/Assets/RoskildeMuseum.jpg</imageurl>
+    <web>www.roskildemuseum.dk</web>
+    <email>roskildemuseum@roskilde.dk</email>
+    <phone>+45 46316529</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Museum of Tools</name>
+    <adress>Ringstedgade, 6-8</adress>
+    <imageurl>/Assets/MuseumOfTools.jpg</imageurl>
+    <web>www.roskildemuseum.dk</web>
+    <email>hanshenrikma@roskilde.dk</email>
+    <phone>+45 46350061</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>O. Lunds Eftf. H. J. Sloth Nielsen Butcher’s Shop</name>
+    <adress>Ringstedgade, 8</adress>
+    <imageurl>/Assets/ButcherShop.jpg</imageurl>
+    <web>www.slagterimuseet.dk</web>
+    <email>Karl@teglmand.dk</email>
+    <phone>+45 46321332</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>The Museum of Contemporary Art</name>
+    <adress>Staendertorvet, 3D</adress>
+    <imageurl>/Assets/ContemporaryArt.jpg</imageurl>
+    <web>www.samtidskunst.dk</web>
+    <email>info@samtidskunst.dk</email>
+    <phone>+45 46316570</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Skt. Laurentius (St. Lawrence) Church</name>
+    <adress>Staendertorvet</adress>
+    <imageurl>/Assets/LaurentiusChurch.jpg</imageurl>
+    <web>www.roskildemuseum.dk</web>
+    <email>roskildemuseum@roskilde.dk</email>
+    <phone>+45 46316529</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Mini Town</name>
+    <adress>Sct. Ibsvej</adress>
+    <imageurl>/Assets/RoskildeMiniTown.jpg</imageurl>
+    <web>www.roskilde-miniby.dk</web>
+    <email>kontakt@roskilde-miniby.dk</email>
+    <phone>+45 46300200</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>St. Hans Hospital Museum</name>
+    <adress>Boserupvej, 2</adress>
+    <imageurl>/Assets/StHans.jpg</imageurl>
+    <web>www.psykiatri-regionh.dk</web>
+    <email>karin.garde@regionh.dk</email>
+    <phone>+45 38642231</phone>
+    <category>Museums</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Skate Park</name>
+    <adress>Darupvej, 50A</adress>
+    <imageurl>/Assets/SkatePark.jpg</imageurl>
+    <web></web>
+    <email></email>
+    <phone></phone>
+    <category>Entertainment</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Ring Disc Golf</name>
+    <adress>Sondre Ringvej, 33</adress>
+    <imageurl>/Assets/RingDiscGolf.jpg</imageurl>
+    <web>www.roskildering.dk</web>
+    <email>discgolf@roskildering.dk</email>
+    <phone></phone>
+    <category>Entertainment</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Racing Centre</name>
+    <adress>Abildgardsvej, 1-3</adress>
+    <imageurl>/Assets/RacingCentre.jpg</imageurl>
+    <web>www.roskilderacingcenter.dk</web>
+    <email>info@roskilderacingcenter.dk</email>
+    <phone>+45 702500086</phone>
+    <category>Entertainment</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Public Swimming Pool</name>
+    <adress>Bymarken, 37</adress>
+    <imageurl>/Assets/SwimmingPool.gif</imageurl>
+    <web>www.roskildebadene.dk</web>
+    <email>anettela@roskilde.dk</email>
+    <phone>+45 46316270</phone>
+    <category>Entertainment</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Hedeland Recreational Resort</name>
+    <adress>Maglehojgardsvej, 6A</adress>
+    <imageurl>/Assets/RecreationalResort.gif</imageurl>
+    <web>www.hedeland.dk</web>
+    <email>hedeland@hedeland.dk</email>
+    <phone>+45 46136318</phone>
+    <category>Entertainment</category>
+  </categoryitem>
+ 
+  <categoryitem>
+    <name>Mulligans Irish Pub</name>
+    <adress>Hestetorvet, 1</adress>
+    <imageurl>/Assets/Mulligans.jpg</imageurl>
+    <web>www.mulliganspub.dk</web>
+    <email></email>
+    <phone>+45 46362362</phone>
+    <category>Night Life</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Café Gulland</name>
+    <adress>Borchsgade, 6</adress>
+    <imageurl>/Assets/CafeGulland.jpg</imageurl>
+    <web></web>
+    <email></email>
+    <phone>+45 46350244</phone>
+    <category>Night Life</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Gustav Wieds Vinstue</name>
+    <adress>Hersegade, 11</adress>
+    <imageurl>/Assets/GustavWieds.jpg</imageurl>
+    <web>www.gustav-wieds-vinstue.dk</web>
+    <email></email>
+    <phone>+45 46365335</phone>
+    <category>Night Life</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Amatorscene Lo Specchio</name>
+    <adress>Eriksvej, 40</adress>
+    <imageurl>/Assets/LoSpecchio.jpg</imageurl>
+    <web>www.lospecchio.dk</web>
+    <email></email>
+    <phone>+45 46366880</phone>
+    <category>Night Life</category>
+  </categoryitem>
+  
+  <categoryitem>
+    <name>Roskilde Bodega</name>
+    <adress>Holbaekvej, 32</adress>
+    <imageurl>/Assets/Bodega.jpg</imageurl>
+    <web></web>
+    <email></email>
+    <phone>+45 46364335</phone>
+    <category>Night Life</category>
+  </categoryitem>
+</categoryitems>
+

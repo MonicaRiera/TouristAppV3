@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MONICA</Machine>
+    <WindowsUser>Mònica</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e13e1269-28c0-40e7-bbc1-30804cae6a96</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe">
+      <PackagePath>TouristAppV3.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\BellaNapoli.jpg">
+      <PackagePath>Assets\BellaNapoli.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Bjergtrolden.jpg">
+      <PackagePath>Assets\Bjergtrolden.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Bodega.jpg">
+      <PackagePath>Assets\Bodega.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\ButcherShop.jpg">
+      <PackagePath>Assets\ButcherShop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\CafeGulland.jpg">
+      <PackagePath>Assets\CafeGulland.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Cathedral.jpg">
+      <PackagePath>Assets\Cathedral.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Comwell.jpg">
+      <PackagePath>Assets\Comwell.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\ContemporaryArt.jpg">
+      <PackagePath>Assets\ContemporaryArt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\GustavWieds.jpg">
+      <PackagePath>Assets\GustavWieds.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\INSPMad.jpg">
+      <PackagePath>Assets\INSPMad.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\LaurentiusChurch.jpg">
+      <PackagePath>Assets\LaurentiusChurch.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\LoSpecchio.jpg">
+      <PackagePath>Assets\LoSpecchio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Mulligans.jpg">
+      <PackagePath>Assets\Mulligans.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\MuseumOfTools.jpg">
+      <PackagePath>Assets\MuseumOfTools.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\OstedKro.jpg">
+      <PackagePath>Assets\OstedKro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\OstensPerle.jpg">
+      <PackagePath>Assets\OstensPerle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Prindsen.jpg">
+      <PackagePath>Assets\Prindsen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Raadhuskaelderen.jpg">
+      <PackagePath>Assets\Raadhuskaelderen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RacingCentre.jpg">
+      <PackagePath>Assets\RacingCentre.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RingDiscGolf.jpg">
+      <PackagePath>Assets\RingDiscGolf.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RoskildeMiniTown.jpg">
+      <PackagePath>Assets\RoskildeMiniTown.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RoskildeMuseum.jpg">
+      <PackagePath>Assets\RoskildeMuseum.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Sagafjord.jpg">
+      <PackagePath>Assets\Sagafjord.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Scandic.jpg">
+      <PackagePath>Assets\Scandic.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\SkatePark.jpg">
+      <PackagePath>Assets\SkatePark.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Sofryd.jpg">
+      <PackagePath>Assets\Sofryd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\StHans.jpg">
+      <PackagePath>Assets\StHans.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Svogerslev Kro.jpg">
+      <PackagePath>Assets\Svogerslev Kro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Upstairs.jpg">
+      <PackagePath>Assets\Upstairs.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\VikingShip.jpg">
+      <PackagePath>Assets\VikingShip.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Wittrup.jpg">
+      <PackagePath>Assets\Wittrup.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RoskildeTouristAppBG2.png">
+      <PackagePath>Assets\RoskildeTouristAppBG2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RoskildeTouristAppBGg.png">
+      <PackagePath>Assets\RoskildeTouristAppBGg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\CafeVivaldi.gif">
+      <PackagePath>Assets\CafeVivaldi.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Gimle.gif">
+      <PackagePath>Assets\Gimle.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Paradis.gif">
+      <PackagePath>Assets\Paradis.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\RecreationalResort.gif">
+      <PackagePath>Assets\RecreationalResort.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\SwimmingPool.gif">
+      <PackagePath>Assets\SwimmingPool.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\VibyKro.gif">
+      <PackagePath>Assets\VibyKro.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\Vigen.gif">
+      <PackagePath>Assets\Vigen.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\xml\Categories.xml">
+      <PackagePath>Assets\xml\Categories.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\xml\CategoryItems.xml">
+      <PackagePath>Assets\xml\CategoryItems.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\xml\Comments.xml">
+      <PackagePath>Assets\xml\Comments.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\Assets\xml\Orders.xml">
+      <PackagePath>Assets\xml\Orders.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\View\CommentView.xbf">
+      <PackagePath>View\CommentView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf">
+      <PackagePath>View\OrderPageView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml">
+      <PackagePath>TouristAppV3.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Downloads\TouristAppV3-master %281%29\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

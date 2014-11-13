@@ -1,0 +1,39 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TouristAppV3.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Model="using:TouristAppV3.Model"
+    xmlns:ViewModel="using:TouristAppV3.ViewModel"
+    x:Class="TouristAppV3.View.OrderPageView"
+    mc:Ignorable="d">
+
+
+    <Grid x:Name="OrderPage1">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Assets/RoskildeTouristAppBG2.png"/>
+        </Grid.Background>
+        <Grid.DataContext>
+            <ViewModel:OrderViewModel/>
+        </Grid.DataContext>
+        <TextBox HorizontalAlignment="Left" Margin="75,216,0,0" TextWrapping="Wrap" Text="{Binding NewOrderModel.FirstName, Mode=TwoWay}" VerticalAlignment="Top" Height="29" Width="241"/>
+        <TextBox HorizontalAlignment="Left" Margin="75,285,0,0" TextWrapping="Wrap" Text="{Binding NewOrderModel.LastName, Mode=TwoWay}" VerticalAlignment="Top" Width="241"/>
+        <TimePicker HorizontalAlignment="Left" Margin="450,364,0,0" VerticalAlignment="Top" Time="{Binding NewOrderModel.Time, Mode=TwoWay}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="75,138,0,0" TextWrapping="Wrap" Text="Order your ticket " VerticalAlignment="Top" FontSize="36"/>
+        <DatePicker x:Name="DatePicker1" HorizontalAlignment="Left" Margin="82,364,0,0" VerticalAlignment="Top" Date="{Binding NewOrderModel.From, Mode=TwoWay}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,340,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,432,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top" FontSize="16"/>
+        <DatePicker HorizontalAlignment="Left" Margin="82,456,0,0" VerticalAlignment="Top" Date="{Binding NewOrderModel.To, Mode=TwoWay}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="450,340,0,0" TextWrapping="Wrap" Text="What time will you come" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="Order a ticket" HorizontalAlignment="Left" Margin="72,574,0,0" VerticalAlignment="Top" Width="168" Command="{Binding AddNewOrderModel, Mode=TwoWay}"/>
+        <Rectangle Fill="#FF535353" HorizontalAlignment="Left" Height="204" Margin="869,155,0,0" Stroke="Black" VerticalAlignment="Top" Width="436"/>
+        <TextBlock HorizontalAlignment="Left" Margin="901,183,0,0" TextWrapping="Wrap" Text="If you have any problems with ordering feel free to ask our customer service on number:" VerticalAlignment="Top" FontSize="20" Width="376"/>
+        <TextBlock HorizontalAlignment="Left" Margin="973,285,0,0" TextWrapping="Wrap" Text="000 000 000" VerticalAlignment="Top" FontSize="48"/>
+        <ComboBox HorizontalAlignment="Left" Margin="450,216,0,0" VerticalAlignment="Top" Width="280" ItemsSource="{Binding CategoriesModels, Mode=TwoWay}" SelectedItem="{Binding SelectedCategory, Mode=TwoWay}"/>
+        <ComboBox HorizontalAlignment="Left" Margin="450,285,0,0" VerticalAlignment="Top" Width="280" ItemsSource="{Binding SelectedCategory.CategoryItems}" SelectedItem="{Binding SelectedCategoryItemModel.Name, Mode=TwoWay}"/>
+        <Button x:ConnectionId='1' Content="Back" HorizontalAlignment="Left" Margin="253,574,0,0" VerticalAlignment="Top"                     />
+
+    </Grid>
+</Page>
+

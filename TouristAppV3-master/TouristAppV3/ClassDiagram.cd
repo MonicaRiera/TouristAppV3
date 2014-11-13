@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TouristAppV3.Model.Categories" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIEAAAAgAQgAAAAIAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\Categories.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TouristAppV3.Model.CategoryItemModel" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAFCAARAAEIAAAAAQAgAgAAAAAAQAgIAAAKBE=</HashCode>
+      <FileName>Model\CategoryItemModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TouristAppV3.Model.CommentModel" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAgAAAAAFAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CommentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TouristAppV3.Model.OrderModel" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgMAAEAAAAAgAAAEAAEAAAAAAgAIAAAAAEAAACAAAQg=</HashCode>
+      <FileName>Model\OrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TouristAppV3.ViewModel.CommentViewModel" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LAAAAAGAEAJAGUIAIABAAkAggQACGAJAAAAgAAACIIA=</HashCode>
+      <FileName>ViewModel\CommentViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Categories" />
+      <Property Name="CategoryItemModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TouristAppV3.ViewModel.MainViewModel" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KQAQCACAAAIAGAKBIQAAAAAggQAAGCAEAAEAAAAAAIA=</HashCode>
+      <FileName>ViewModel\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Categories" />
+      <Property Name="CategoryItemModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TouristAppV3.ViewModel.OrderViewModel" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAIACIQAIAGAIAIAAAAEAggwAAGAAAABAEAAAAAIA=</HashCode>
+      <FileName>ViewModel\OrderViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Categories" />
+      <Property Name="CategoryItemModel" />
+      <Property Name="OrderModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+  <category>
+    <name>Restaurants</name>
+  </category>
+  <category>
+    <name>Museums</name>
+  </category>
+  <category>
+    <name>Entertainment</name>
+  </category>
+  <category>
+    <name>Night Life</name>
+  </category>
+  <category>
+    <name>Hotels and Hostals</name>
+  </category>
+  <category>
+    <name>Others</name>
+  </category>
+</categories>
+

@@ -1,0 +1,237 @@
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\App.xbf
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\View\MainPage.xbf
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\TouristAppV3.exe
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\TouristAppV3.pdb
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\resources.pri
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\AppxManifest.xml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\App.g.i.cs
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\App.g.cs
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\View\MainPage.g.cs
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\App.xaml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\View\MainPage.xaml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\App.xbf
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\View\MainPage.xbf
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\TouristAppV3.exe
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\TouristAppV3.pdb
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\priconfig.xml
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\layout.resfiles
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\resources.resfiles
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\pri.resfiles
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\qualifiers.txt
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mònica\documents\visual studio 2013\Projects\TouristAppV3\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.pdb
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.i.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xaml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xaml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xbf
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xbf
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.exe
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.pdb
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.i.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.cs
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xaml
+C:\Users\lubov_000\Desktop\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.exe
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\CommentView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\CommentView.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.i.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.i.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.i.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xaml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xaml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xaml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xaml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\App.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.exe
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mònica\Dropbox\TouristAppV3-master\TouristAppV3-master\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\View\CommentView.xbf
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.pdb
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.i.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.i.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.i.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\App.xaml
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xaml
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xaml
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xaml
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\App.xbf
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xbf
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xbf
+C:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xbf
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.exe
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.pdb
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Users\lubov_000\Desktop\BGS\TouristAppV3-master\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\App.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\View\CommentView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\View\MainPage.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.xr.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.exe
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\resources.pri
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\AppxManifest.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\App.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.i.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\App.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xaml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\App.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\CommentView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\MainPage.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\View\OrderPageView.xbf
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.exe
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\TouristAppV3.pdb
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mònica\Downloads\TouristAppV3-master (1)\TouristAppV3-master\TouristAppV3\bin\Debug\TouristAppV3.build.appxrecipe
